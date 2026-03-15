@@ -1,4 +1,4 @@
-##indian-monsoon-rainfall-regimes-ml
+## indian-monsoon-rainfall-regimes-ml
 This project applies unsupervised machine learning (K-Means clustering) to identify spatial rainfall regimes across India using the IMD 0.25° gridded rainfall dataset (1979–2022).
 
 ## Methodology
